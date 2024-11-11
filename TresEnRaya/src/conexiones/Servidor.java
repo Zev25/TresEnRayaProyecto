@@ -7,7 +7,7 @@ import java.net.*;
  * @author Felipe
  */
 public class Servidor {
-    pulic static void main(String[] args) {
+    public static void main(String[] args) {
         try (ServerSocket servidor = new ServerSocket(12345)) {
             System.out.println("Esperado a un jugador...");
             Socket socket = servidor.accept();
