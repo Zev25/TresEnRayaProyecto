@@ -3,11 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Felipe/Documents/NetBeansProjects/TresEnRaya/src/interfaz/TresEnRayaGUI.java</file>
-            <file>file:/C:/Users/Felipe/Documents/NetBeansProjects/TresEnRaya/src/tresenraya/TresEnRaya.java</file>
-            <file>file:/C:/Users/Felipe/Documents/NetBeansProjects/TresEnRaya/src/Conexiones/cliente.java</file>
-            <file>file:/C:/Users/Felipe/Documents/NetBeansProjects/TresEnRaya/src/Conexiones/Servidor.java</file>
-            <file>file:/C:/Users/Felipe/Documents/NetBeansProjects/TresEnRaya/src/logica/TresEnRayaLogica.java</file>
+            <file>file:/C:/Users/Felipe/Documents/TresEnRayaProyecto/TresEnRaya/src/conexiones/Servidor.java</file>
+            <file>file:/C:/Users/Felipe/Documents/TresEnRayaProyecto/TresEnRaya/src/conexiones/cliente.java</file>
         </group>
     </open-files>
 </project-private>
